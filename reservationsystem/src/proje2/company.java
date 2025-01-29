@@ -791,6 +791,8 @@ Seferler.add(sefer6);
      */
     public void setHizmetler(List<String> hizmetler) {
         this.hizmetler = hizmetler;
+    }
       
+    
     
 }
